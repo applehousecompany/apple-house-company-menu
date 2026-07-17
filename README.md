@@ -1,2 +1,2 @@
-# apple-house-company-menu
+# Apple-House-Company-Menu
 Official menu for AppleHouse 
